@@ -6,5 +6,6 @@ import Home from './home';
 test('renders create-react-app boilerplate', () => {
   const { getByText } = render(<Home />);
   const linkElement = getByText(/create-react-app boilerplate/i);
+
   expect(linkElement).toBeTruthy();
 });

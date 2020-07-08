@@ -2,7 +2,7 @@ import React from 'react';
 
 const NotFound = () => (
   <div>
-    Custom not found page
+    Example not found page
   </div>
 );
 
