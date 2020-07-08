@@ -1,18 +1,16 @@
 This project is a boilerplate over [Create React App](https://github.com/facebook/create-react-app).
 
 ## Boilerplate containing
-
-### Axios
-### Express server
-### PropTypes
-### React-Redux w/ Thunk & Reselect
-### Styled-Components
-### Eslint
-### Absolute imports
-### Jest
+- Axios
+- Express server
+- PropTypes
+- React-Redux w/ Thunk & Reselect
+- Styled-Components
+- Eslint
+- Absolute imports
+- Jest
 
 ## Folder structure
-```
 📦src
  ┣ 📂__tests__
  ┃ ┗ 📜home.test.js
@@ -88,4 +86,3 @@ This project is a boilerplate over [Create React App](https://github.com/faceboo
  ┃ ┣ 📜global.styles.js
  ┃ ┗ 📜theme.styles.js
  ┗ 📜index.js
-```
